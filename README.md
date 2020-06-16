@@ -5,7 +5,7 @@ Welcome to Plantly an IoT Smart Garden, serverless cloud implementation and mach
 
 1) Navigate to arduino-microcontroller: https://github.com/PGP1/arduino-microcontroller. This repo contains the sourcecode for the sensor data collection of the garden. If you have an arduino, deploy our code, modify it to match your arduino sensor set up! 
 
-- Deploy the code, and connect the arduino via Serial cable to a Raspberry Pi!
+> Deploy the code, and connect the arduino via Serial cable to a Raspberry Pi!
 
 2) Navigate to rbpi-core: https://github.com/PGP1/rbpi-core. This is our Raspberry Pi source code, follow the instructions for installation and setup. 
 
